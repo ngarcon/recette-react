@@ -1,0 +1,36 @@
+/* INGREDIENT ITEM STYLE */
+
+.ingredient {
+  text-align: left; 
+  padding: .6em;  
+  border-bottom: 1px solid #ddd; 
+}
+
+input[type=checkbox] {
+  margin-right: 1rem;
+  font-size: 1.2rem;
+  width: 20px; /*Desired width*/
+  height: 20px; /*Desired height*/
+  cursor: pointer;
+}
+
+.checked {
+  background-color: #eee; 
+}
+
+.quantity {
+  color: white; 
+  background-color: #F18042; 
+  display: inline-block;
+  padding: 0.5em 0.8em;
+  border-radius: 0.4em; 
+}
+
+.checked .quantity {
+  background-color: rgb(179, 93, 46); 
+  text-decoration: line-through;
+}
+
+.checked label {
+  text-decoration: line-through;
+}

@@ -1,0 +1,11 @@
+/* INSTRUCTION ITEM STYLE */
+
+li {
+  padding: .5em;
+}
+
+.orange{
+  color: #F18042;
+  display: inline-block;
+  margin-right: 1em; 
+}

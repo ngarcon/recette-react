@@ -1,0 +1,10 @@
+/* INSTRUCTION GROUP STYLE */
+
+.instructionContainer {
+  text-align: left; 
+  background-color: #F2F2F2; 
+  margin-top: 2rem;
+  padding: 2em;
+  border-radius: 1rem 1rem 0 0;
+}
+
